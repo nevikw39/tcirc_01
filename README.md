@@ -8,7 +8,7 @@
 1. cin, cout
 2. 名稱空間
   - operator
-  - declaration/'
+  - declaration
   - directive
 3. 物件導向概論
 4. 模板簡述
