@@ -10,6 +10,6 @@ int main()
 {
     int n;
     cin >> n;
-    cout << n;
+    cout << n << '\n';
     return 0;
 }
