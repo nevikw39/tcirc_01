@@ -6,6 +6,7 @@
 > [社團網站](https://tcirc.tw)
 > [社團ＯＪ](https://judge.tcirc.tw)
 > [Telegram 討論區](https://t.me/joinchat/KUNytVBKySskb35M4TdOig)
+
 > 特別感謝「*[星城數位科技](http://xincastle.com/)*」
 
 ## 目錄大綱
@@ -25,6 +26,8 @@
 6. 字串長度
 7. 字串比較
 8. 字串相接
+9. vector 初始化
+10. vector 遍歷
 
 ## 課後動腦
 
