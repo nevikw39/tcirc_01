@@ -5,6 +5,7 @@
 > **[上課簡報](https://www.icloud.com/keynote/04u233Qxtlcz2K9yaRWcDzJbA#tcirc37_01)**
 > [社團網站](https://tcirc.tw)
 > [社團ＯＪ](https://judge.tcirc.tw)
+> **[選幹表單](https://forms.gle/pjynhw5DMV4gEiDdA)**
 > [Telegram 討論區](https://t.me/joinchat/KUNytVBKySskb35M4TdOig)
 
 > 特別感謝「*[星城數位科技](http://xincastle.com/)*」
