@@ -9,9 +9,12 @@ using namespace std;
 int main()
 {
     string str0 = "o'_'o", str1 = "o'_'o", str2 = "0'_'O";
-    cout << (str0 == str1) << '\n'     // True
-         << (str0 == str2) << '\n';    // False
+    cout << (str0 == str1) << '\n'  // True
+         << (str0 == str2) << '\n'; // False
     string circ = "circ", ddc = "Ddc";
-    cout << (circ > ddc) << '\n';      // 依照字典順序比較
+    if (circ > ddc) // 依照字典順序比較
+        cout << "circ is greater than ddc.\n";
+    else
+        cout << "circ is not greater than ddc.\n";
     return 0;
 }

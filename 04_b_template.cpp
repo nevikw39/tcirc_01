@@ -9,7 +9,7 @@ using namespace std;
 template <typename T>
 T sum(T a, T b)
 {
-    cerr << typeid(T).name() << '\n';
+    puts(typeid(T).name());
     return a + b;
 }
 

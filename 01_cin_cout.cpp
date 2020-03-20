@@ -8,7 +8,7 @@
 using namespace std;
 int main()
 {
-    int n;
+    int n = 87;
     cin >> n;
     cout << n << '\n';
     return 0;
