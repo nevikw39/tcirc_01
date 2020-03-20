@@ -1,5 +1,5 @@
 # 一中電研 37 屆下學期 C++ 班 社課 Ⅰ
-
+# https://github.com/nevikw39/tcirc_01
 ## 快速連結
 
 > **[上課簡報](https://www.icloud.com/keynote/04u233Qxtlcz2K9yaRWcDzJbA#tcirc37_01)**
